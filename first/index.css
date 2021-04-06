@@ -1,0 +1,23 @@
+body{
+   margin: auto;
+   background-color: lightgray;
+}
+
+.top {
+   background-color: rgb(80, 80, 80);
+   width: 100%;
+   height: 20vh;
+}
+.middle {
+   background-color: rgb(240, 240, 240);
+   height: 70vh;
+   width: 75vw;
+   margin: 0 auto;
+}
+
+.btm {
+   background-color: rgb(29, 29, 29);
+   height: 10vh;
+   width: 75vw;
+   margin: 0 auto;
+}
